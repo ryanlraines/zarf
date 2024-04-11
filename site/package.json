@@ -24,7 +24,7 @@
     "typescript": "^5.4.3"
   },
   "devDependencies": {
-    "markdownlint-cli2": "^0.12.1",
+    "markdownlint-cli2": "^0.13.0",
     "remark-gemoji": "^8.0.0",
     "yaml": "^2.4.1"
   },
